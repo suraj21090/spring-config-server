@@ -1,4 +1,10 @@
+kafka:
+  bootstrapServers: 127.0.01:9092
+
+
 vendor:
   management:
     feign:
       url: http://localhost:8023
+
+ 
