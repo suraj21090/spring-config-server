@@ -1,0 +1,4 @@
+vendor:
+  management:
+    feign:
+      url: http://localhost:8023
