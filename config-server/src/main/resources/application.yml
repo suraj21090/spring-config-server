@@ -7,10 +7,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ijayakantha/spring-config-server
-          search-paths: server-config/
+          uri: https://github.com/suraj21090/spring-config-server
+          search-paths: service-config/
 server:
-  port: 8888
+  port: 8666
 management:
   security:
     enabled: false
